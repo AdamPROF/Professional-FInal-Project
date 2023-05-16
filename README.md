@@ -13,7 +13,7 @@ To play the game, simply run the Pygame program on your device. Use the arrow ke
 We hope you enjoy playing our Pygame and learning about programming languages. If you have any questions or feedback, please don't hesitate to contact us. Happy learning!
 
 
-# How to download and the game
+# How to download and start playing the game
 
 Once you downloaded the folder by pressing on the blue button at the top that says "<> Code".
 You press download ZIP to get the game and all required files to play the game.
